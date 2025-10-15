@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Header](./github-header-banner.png)
 
 <!--
 **PeiHui369/PeiHui369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
